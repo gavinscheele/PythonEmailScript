@@ -1,6 +1,10 @@
+import re
+
+
 def text_parser(line):
-    end_index = line.find(".edu")
-    if end_index == -1:
+    # Regex to pull out
+    match = re.findall(r'[\w\.-]+@[\w\.-]+', line)
+    if len(match) == 0:
         raise ValueError('Email address not found')
 
-    return line[0:(end_index + 4)]
+    return match

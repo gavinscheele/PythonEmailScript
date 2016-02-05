@@ -17,7 +17,8 @@ def process_file(fn, hostname, username, password, db_name, table_name, column_n
 
     for line in readable_input:
         try:
-            email_output_file.write(email_parser.text_parser(line) + "\n")
+            for email in email_parser.text_parser(str(line)):
+                email_output_file.write(email + "\n")
         except ValueError as e:
             base_filename = fn.split("/")
             base_filename = base_filename[1]

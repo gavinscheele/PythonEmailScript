@@ -6,7 +6,7 @@ Pulls .edu email addresses from text files placed in the 'place_input_files_here
 1. You will need to download and install MySQL Connector for Python, which can be found here:
     https://dev.mysql.com/downloads/connector/python/. It will ask you to create an account if you do not already have one, but the account is free.
 
-2. If you have a mac, or already have python installed, you can proceed to step 3. Otherwise, you will need to download and install python from here: https://www.python.org/downloads/. I'm using version 2.7.10 but it shouldn't matter.
+2. If you have a mac, or already have python installed, you can proceed to step 3. Otherwise, you will need to download and install python from here: https://www.python.org/downloads/. I'm using version 2.7.10.
     
 3. Clone this repository to the desired directory. Run (in terminal)
     ```bash
