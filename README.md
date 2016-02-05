@@ -19,6 +19,7 @@ Pulls .edu email addresses from text files placed in the 'place_input_files_here
       ```
 5. Place text files containing emails into the 'place_input_files_here' directory.
 6. Run (in terminal)
+    
     ```bash
     python main.py
     ```
