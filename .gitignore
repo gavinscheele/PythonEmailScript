@@ -63,3 +63,4 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+place_input_files_here/placeholder.txt

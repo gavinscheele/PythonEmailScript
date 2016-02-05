@@ -30,8 +30,12 @@ def process_file(fn, hostname, username, password, db_name, table_name, column_n
 
     input_file.close()
     email_output_file.close()
-    mysql_statement = mysql_generator.generate_mysql(table_name, column_name)
-    mysql_executer.execute_query(mysql_statement, hostname, username, password, db_name)
+    try:
+        mysql_statement = mysql_generator.generate_mysql(fn, table_name, column_name)
+    except EOFError as e:
+        print(e)
+    else:
+        mysql_executer.execute_query(mysql_statement, hostname, username, password, db_name)
 
     # remove intermediate output file
     if os.path.isfile("email_list_output.txt"):
