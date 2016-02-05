@@ -1,0 +1,90 @@
+cadema@ufl.edu	Colin	W	Adema
+tangerhofer@ufl.edu	Timon	Dominik	Angerhofer
+cesar.atteh@ufl.edu	Sezar		Atteh
+nbarnes1@ufl.edu	Nicholas	A	Barnes
+jmbohorques@ufl.edu	Jose	M	Bohorques
+lucas.bowe001@ufl.edu	Lucas	P	Bowe
+wtb3@ufl.edu	William	T	Brand
+cal2u@ufl.edu	Caleb	J	Bryant
+sburgoyne@ufl.edu	Skyler	M	Burgoyne
+ichan@ufl.edu	Ian	E	Chan
+susannec@ufl.edu	Susanne	L	Chan
+chenshiming@ufl.edu	Michael	D	Chan-Pong
+charleychau@ufl.edu	Charley		Chau
+bchesley97@ufl.edu	Britton	P	Chesley
+pchilakala@ufl.edu	Punith	Kumar R	Chilakala
+kchow23@ufl.edu	Kevin		Chow
+phrich@ufl.edu	Philip	R	Christoffersen
+purplkingg@ufl.edu	Ryan	T	Clements
+robertcorso97@ufl.edu	Robert	J	Corso
+edaff1994@ufl.edu	Eric	N	Daff
+mingmingrr@ufl.edu	Shiming		Deng
+atd216@ufl.edu	Anthony	T	Dermody
+amy.devries@ufl.edu	Amy	A	Devries
+jldurso13@ufl.edu	Joshua	L	D'Urso
+madisel@ufl.edu	Madison	N	Emas
+connorericson@ufl.edu	Connor	P	Ericson
+mfontanez@ufl.edu	Mikael		Fontanez
+djordje.gluhovic@ufl.edu	Dorde		Gluhovic
+danngonz3@ufl.edu	Daniel	D	Gonzalez
+rgoosuf@ufl.edu	Richie	M	Goos
+henrytgordon@ufl.edu	Henry	T	Gordon
+griffincc@ufl.edu	Charles	C	Griffin
+dougiewar@ufl.edu	Douglas	A	Guerra
+ierdnaful@ufl.edu	Andrei	Yu	Gurau
+amberhawthorne@ufl.edu	Amber	M	Hawthorne
+bisaly@ufl.edu	Bobbie	J	Isaly
+tjakkala1@ufl.edu	Raviteja	V	Jakkala
+ricardojoseph@ufl.edu	Ricardo		Joseph
+tkaknevicius@ufl.edu	Tomas	K	Kaknevicius
+zklueh@ufl.edu	Zoey	J	Klueh
+nkroeger@ufl.edu	Nicholas	M	Kroeger
+bradleyalazar@ufl.edu	Bradley	A	Lazar
+mclevecq@ufl.edu	Michael	C	Levecque
+alewitt2@ufl.edu	Alexander	D	Lewitt
+fliangz@ufl.edu	Franky	Z	Liang
+vlin@ufl.edu	Victor	T	Lin
+melogan96@ufl.edu	Megan	E	Logan
+kevin.lovell96@ufl.edu	Kevin	A	Lovell
+annieluc@ufl.edu	Annie	A	Luc
+jenaanm@ufl.edu	Jenaan	J	Maali
+mmacoy@ufl.edu	Mac	Anthony	Macoy
+zmandell@ufl.edu	Zane	L	Mandell
+nmarshall@ufl.edu	Nathan	R	Marshall
+nmiller95@ufl.edu	Nathan	E	Miller
+kmiilliser@ufl.edu	Katrina	J	Milliser
+kmillner@ufl.edu	Kevin	E	Millner
+cmoffitt@ufl.edu	Christopher	A	Moffitt
+cmoler@ufl.edu	Colton	B	Moler
+seve.monahan@ufl.edu	Seve	F	Monahan
+conorm181@ufl.edu	Conor	A	Montroy
+jrmoody5@ufl.edu	James	R	Moody
+amunoz@ufl.edu	Alexandra		Munoz
+timothyemurphy@ufl.edu	Timothy	E	Murphy
+felix90@ufl.edu	Felix	Q	Oesterreicher
+abhishek26@ufl.edu	Abhishek	B	Patel
+mpatel1995@ufl.edu	Milan	A	Patel
+popeswag@ufl.edu	Alexander	M	Popeil
+willaqu@ufl.edu	Michelle	W	Qu
+kajirashad@ufl.edu	Kaji		Rashad
+megagator@ufl.edu	Michael	N	Reinhard
+bry3133@ufl.edu	Bryan	D	Rivera
+zrolston@ufl.edu	Zachary		Rolston
+jessab@ufl.edu	Jessica	N	Sabin
+rajvshah@ufl.edu	Raj	V	Shah
+cristosilva@ufl.edu	Cristo	D	Silva Delgadillo
+juliedsilvers@ufl.edu	Julie	D	Silvers
+eric12012@ufl.edu	Eric		Suarez
+bsubramanian@ufl.edu	Bhavana		Subramanian
+dsuen1@ufl.edu	Daniel	C	Suen
+ttharpe@ufl.edu	Troy	R	Tharpe
+uhingc@ufl.edu	Clayton	J	Uhing
+bvillanueva915@ufl.edu	Beatrice	Cabaysa	Villanueva
+s24471468@ufl.edu	Phelan	N	Vo
+kylegwalsh@ufl.edu	Kyle	G	Walsh
+ericaw17@ufl.edu	Erica	L	Weber
+twickes32@ufl.edu	Adam	T	Wickes
+rxie96@ufl.edu	Yutong		Xie
+tyovaish@ufl.edu	Trevor	A	Yovaish
+zapata.e96@ufl.edu	Esteban	D	Zapata
+jzoldos@ufl.edu	John	A	Zoldos
