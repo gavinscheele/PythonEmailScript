@@ -5,8 +5,8 @@ Pulls .edu email addresses from text files placed in the 'place_input_files_here
 # Usage Instructions
 1. Clone this repository to the desired directory. Run
 
-  '''bash
-  git clone https://github.com/gdscheele/PythonEmailScript.git
+  '''python
+git clone https://github.com/gdscheele/PythonEmailScript.git
   '''
   
 2. Run 
