@@ -5,6 +5,7 @@ import mysql_generator
 import os
 import sys
 import getpass
+import mysql.connector
 
 
 # scrapes .edu emails out of each lines and saves them to the db. Logs errors to console.
@@ -35,7 +36,13 @@ def process_file(fn, hostname, username, password, db_name, table_name, column_n
     except EOFError as e:
         print(e)
     else:
-        mysql_executer.execute_query(mysql_statement, hostname, username, password, db_name)
+        try:
+            mysql_executer.execute_query(mysql_statement, hostname, username, password, db_name)
+        except mysql.connector.Error as e:
+            print("Something went wrong: {}".format(e))
+            print("Check your credentials.")
+            clean_up()
+            sys.exit()
 
     # remove intermediate output file
     if os.path.isfile("email_list_output.txt"):
@@ -50,6 +57,11 @@ def create_output_files():
         open(intermediate_output_fn, 'a').close()
 
 
+def clean_up():
+    intermediate_output_fn = "email_list_output.txt"
+
+    if os.path.isfile(intermediate_output_fn):
+        os.remove(intermediate_output_fn)
 
 
 # driver function
